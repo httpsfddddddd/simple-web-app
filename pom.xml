@@ -63,6 +63,13 @@
 			<groupId>org.springframework</groupId>
 			<artifactId>spring-webmvc</artifactId>
 		</dependency>
+		
+		<dependency>
+                <groupId>ch.acra</groupId>
+                <artifactId>acra</artifactId>
+                <version>4.9.0</version>
+                <type>aar</type>
+                </dependency>
 				
 		<!-- Logging -->
 		<dependency>
